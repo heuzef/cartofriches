@@ -4,3 +4,4 @@ matplotlib
 seaborn
 jinja2
 scikit-learn
+imblearn
